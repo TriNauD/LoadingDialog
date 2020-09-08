@@ -23,7 +23,6 @@
             android:layout_height="35dp"
             android:layout_gravity="center_horizontal"
             android:indeterminateBehavior="repeat"
-            android:indeterminateDrawable="@drawable/dialog_loading"
             android:indeterminateOnly="true" />
 
         <TextView
